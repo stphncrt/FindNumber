@@ -1,0 +1,19 @@
+body{
+    background-image: url("./F2qRmLhRnmebc8jJAUjr_GuessTheNumber@3x\ \(1\).png");
+}
+
+#container{
+ 
+    text-align: center;
+    font-size: 30px;
+    font-style: initial;
+    font-weight: bold;
+}
+
+p{
+    font-size: 30px;
+}
+#btn{
+    margin: 25px auto auto 5px;
+
+}
