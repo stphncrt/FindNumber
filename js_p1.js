@@ -4,7 +4,7 @@ let btn = document.getElementById('btn');
 let number = [Math.floor(Math.random() * 100)]
 
 btn.addEventListener('click', function(){
-    let input =document.getElementById('userInput').Value;
+    let input = document.getElementById('userInput').Value;
     if (input == number){
         output.innerHTML = 'You are the winner:you guest after  times!'
 
